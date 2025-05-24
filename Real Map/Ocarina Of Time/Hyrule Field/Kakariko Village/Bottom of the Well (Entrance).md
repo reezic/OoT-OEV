@@ -1,0 +1,1 @@
+color_BottomoftheWell #KakarikoVillage[[Bottom of the Well (Exit)]]

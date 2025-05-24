@@ -1,0 +1,1 @@
+color_KakarikoVillage #KakarikoVillage[[Impa's House Front (Exit)]]

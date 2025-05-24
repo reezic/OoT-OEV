@@ -1,0 +1,1 @@
+color_InsideJabuJabusBelly #ZorasFountain[[Inside Jabu-Jabu's Belly (Exit)]]

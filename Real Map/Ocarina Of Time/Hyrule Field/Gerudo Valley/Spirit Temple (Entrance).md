@@ -1,0 +1,1 @@
+color_SpiritTemple  #DesertColossus[[Spirit Temple (Exit)]]

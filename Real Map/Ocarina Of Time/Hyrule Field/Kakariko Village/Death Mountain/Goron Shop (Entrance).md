@@ -1,0 +1,1 @@
+color_DeathMountain #GoronCity[[Goron Shop (Exit)]]

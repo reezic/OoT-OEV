@@ -1,0 +1,1 @@
+color_KakarikoVillage #KakarikoVillage[[Graveyard (From Kakariko Village)]]

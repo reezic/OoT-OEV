@@ -1,0 +1,1 @@
+color_HyruleCastleTown #Market[[Inside the Gate (From Market)]]

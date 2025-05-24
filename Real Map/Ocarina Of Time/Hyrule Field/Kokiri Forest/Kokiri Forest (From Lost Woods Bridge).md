@@ -1,0 +1,1 @@
+color_KokiriForest #KokiriForest[[Lost Woods Bridge (From Kokiri Forest)]]

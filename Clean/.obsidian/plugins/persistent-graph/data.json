@@ -1,0 +1,1930 @@
+{
+  "nodePositions": [
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Carpenters' Tent (Entrance).md",
+      "x": -1337.958984375,
+      "y": -5136.2392578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Carpenters' Tent (Exit).md",
+      "x": -1031.88525390625,
+      "y": -5508.2998046875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Desert Colossus (From Haunted Wasteland).md",
+      "x": -1127.39208984375,
+      "y": -5603.521484375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Gerudo Valley (From Gerudo's Fortress).md",
+      "x": -1008.3882446289062,
+      "y": -4777.47265625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Gerudo Valley (From Hyrule Field).md",
+      "x": -1160.14208984375,
+      "y": -5267.63671875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Gerudo Valley (River Exit).md",
+      "x": -921.4790649414062,
+      "y": -5190.12939453125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Gerudo's Fortress (From Gerudo Valley).md",
+      "x": -1350.559326171875,
+      "y": -5777.42724609375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Gerudo's Fortress (From Haunted Wasteland).md",
+      "x": -1069.5740966796875,
+      "y": -5978.140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Gerudo's Training Grounds (Entrance).md",
+      "x": -1298.1317138671875,
+      "y": -5885.369140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Gerudo's Training Grounds (Exit).md",
+      "x": -912.2489013671875,
+      "y": -5339.33642578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Great Fairy (Colossus, Entrance).md",
+      "x": -955.882080078125,
+      "y": -5615.234375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Great Fairy (Colossus, Exit).md",
+      "x": -953.5193481445312,
+      "y": -5735.2109375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Grottos/Colossus Grotto (Entrance).md",
+      "x": -801.15380859375,
+      "y": -5874.02978515625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Grottos/Colossus Grotto (Exit).md",
+      "x": 1825.8719482421875,
+      "y": -5962.396484375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Grottos/GF Storms Grotto (Entrance).md",
+      "x": -1348.187255859375,
+      "y": -5656.16796875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Grottos/GF Storms Grotto (Exit).md",
+      "x": 1583.1634521484375,
+      "y": -5886.21923828125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Grottos/GV Octorok Grotto (Entrance).md",
+      "x": -1364.3133544921875,
+      "y": -4968.05810546875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Grottos/GV Octorok Grotto (Exit).md",
+      "x": 1837.7845458984375,
+      "y": -6711.62158203125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Grottos/GV Storms Grotto (Entrance).md",
+      "x": -1302.241943359375,
+      "y": -4841.8193359375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Grottos/GV Storms Grotto (Exit).md",
+      "x": 1045.770263671875,
+      "y": -5873.78564453125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Haunted Wasteland (From Colossus).md",
+      "x": -1351.2965087890625,
+      "y": -5499.72314453125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Haunted Wasteland (From Gerudo's Fortress).md",
+      "x": -1247.3499755859375,
+      "y": -4994.88232421875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Spirit Temple (Entrance).md",
+      "x": -834.00537109375,
+      "y": -5724.42236328125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Spirit Temple (Exit).md",
+      "x": -1144.251953125,
+      "y": -5427.71533203125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Twinrova (Entrance).md",
+      "x": -1185.1033935546875,
+      "y": -5925.67529296875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Gerudo Valley/Twinrova (Exit).md",
+      "x": -938.5661010742188,
+      "y": -5860.62158203125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Cow Grotto (Entrace).md",
+      "x": -3118.312255859375,
+      "y": -4892.80615234375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Cow Grotto (Exit).md",
+      "x": 2302.48681640625,
+      "y": -6210.95751953125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Fairy Grotto (Entrance).md",
+      "x": -3003.756591796875,
+      "y": -4928.21826171875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Fairy Grotto (Exit).md",
+      "x": 1315.0179443359375,
+      "y": -5540.78076171875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Inside Fence Grotto (Entrance).md",
+      "x": -3217.112548828125,
+      "y": -5329.40673828125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Inside Fence Grotto (Exit).md",
+      "x": 508.5263366699219,
+      "y": -7358.86865234375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Near Kak Grotto (Entrance).md",
+      "x": -3324.087890625,
+      "y": -5383.56787109375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Near Kak Grotto (Exit).md",
+      "x": 1482.0433349609375,
+      "y": -6804.12353515625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Near Market Grotto (Entrance).md",
+      "x": -3098.505859375,
+      "y": -5346.9931640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Near Market Grotto (Exit).md",
+      "x": 1538.357666015625,
+      "y": -6032.3505859375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Open Grotto (Entrance).md",
+      "x": -3490.02490234375,
+      "y": -5129.4384765625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Open Grotto (Exit).md",
+      "x": 1401.860595703125,
+      "y": -5446.8818359375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Southeast Grotto (Entrance).md",
+      "x": -3447.67236328125,
+      "y": -4957.9619140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Southeast Grotto (Exit).md",
+      "x": -423.8548278808594,
+      "y": -6669.8388671875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Tektite Grotto (Entrance).md",
+      "x": -3055.147705078125,
+      "y": -5235.19580078125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Grottos/HF Tektite Grotto (Exit).md",
+      "x": 1664.31982421875,
+      "y": -6046.130859375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Bombchu Bowling Alley (Entrance).md",
+      "x": -4893.1875,
+      "y": -2453.755859375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Bombchu Bowling Alley (Exit).md",
+      "x": -6084.12255859375,
+      "y": -2845.4921875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Bombchu Shop (Entrance).md",
+      "x": -4729.005859375,
+      "y": -2937.99072265625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Bombchu Shop (Exit).md",
+      "x": -5452.57568359375,
+      "y": -3596.81494140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Guard House (Entrance).md",
+      "x": -6436.0634765625,
+      "y": -3828.5244140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Guard House (Exit).md",
+      "x": -6306.5244140625,
+      "y": -3030.077880859375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Happy Mask Shop (Entrance).md",
+      "x": -4635.04150390625,
+      "y": -2858.182861328125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Happy Mask Shop (Exit).md",
+      "x": -5302.91748046875,
+      "y": -2947.31640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Ganon's Castle (Entrance).md",
+      "x": -6079.3544921875,
+      "y": -3571.551025390625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Ganon's Castle (Exit).md",
+      "x": -6628.380859375,
+      "y": -3207.68603515625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Ganondorf (Entrance).md",
+      "x": -6576.73046875,
+      "y": -3367.8681640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Ganondorf (Exit).md",
+      "x": -6514.55029296875,
+      "y": -3564.48486328125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Great Fairy (Castle Outskirts, Entrance).md",
+      "x": -5839.51806640625,
+      "y": -3570.11181640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Great Fairy (Castle Outskirts, Exit).md",
+      "x": -5257.38134765625,
+      "y": -2243.451416015625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Great Fairy (Ruins, Entrance).md",
+      "x": -5955.64697265625,
+      "y": -3600.34765625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Great Fairy (Ruins, Exit).md",
+      "x": -5694.66650390625,
+      "y": -3369.5302734375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Grottos/HC Storms Grotto (Entrance).md",
+      "x": -6190.7138671875,
+      "y": -3459.509033203125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Grottos/HC Storms Grotto (Exit).md",
+      "x": 1436.71337890625,
+      "y": -5956.345703125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Hyrule Castle (From Outskirts).md",
+      "x": -5385.97412109375,
+      "y": -3033.928466796875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Hyrule Castle Outskirts (From Castle).md",
+      "x": -5749.62841796875,
+      "y": -3490.61376953125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Hyrule Castle Outskirts (From Hyrule Market Town).md",
+      "x": -6172.7744140625,
+      "y": -3195.18896484375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Hyrule Castle Sanctum (Entrance).md",
+      "x": -5505.7880859375,
+      "y": -3040.609619140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Castle/Hyrule Castle Sanctum (Exit).md",
+      "x": -5210.64794921875,
+      "y": -2836.5107421875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Market Medicine Shop (Entrance).md",
+      "x": -4773.3017578125,
+      "y": -2458.993896484375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Market Medicine Shop (Exit).md",
+      "x": -5347.068359375,
+      "y": -2827.5
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Market Shooting Gallery (Entrance).md",
+      "x": -5017.15185546875,
+      "y": -2515.60546875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Hyrule Market Shooting Gallery (Exit).md",
+      "x": -5804.84033203125,
+      "y": -3243.02099609375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Inside the Gate (From Hyrule Field).md",
+      "x": -6287.38037109375,
+      "y": -3897.561767578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Inside the Gate (From Market).md",
+      "x": -6144.5556640625,
+      "y": -3872.55126953125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Market (From Hyrule Castle).md",
+      "x": -5093.31298828125,
+      "y": -2774.393310546875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Market (From Inside Gate).md",
+      "x": -4668.75341796875,
+      "y": -2517.897705078125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Market (From Temple of Time).md",
+      "x": -4853.56201171875,
+      "y": -2964.976318359375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Market Bazaar (Entrance).md",
+      "x": -4601.62744140625,
+      "y": -2619.16015625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Market Bazaar (Exit).md",
+      "x": -4999.8994140625,
+      "y": -2699.0673828125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Richard's House (Entrance).md",
+      "x": -5085.07275390625,
+      "y": -2614.533935546875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Richard's House (Exit).md",
+      "x": -5187.771484375,
+      "y": -3297.4384765625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Temple of Time (Entrance).md",
+      "x": -5572.27734375,
+      "y": -2650.406005859375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Temple of Time (Exit).md",
+      "x": -6210.39697265625,
+      "y": -2938.758544921875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Temple of Time Courtyard (From Market).md",
+      "x": -5865.70166015625,
+      "y": -2231.613037109375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/The other House (Entrance).md",
+      "x": -4969.1845703125,
+      "y": -2932.8603515625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/The other House (Exit).md",
+      "x": -5869.1015625,
+      "y": -2951.960693359375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Treasure Chest Game (Entrance).md",
+      "x": -4588.54736328125,
+      "y": -2741.93408203125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Castle Town/Treasure Chest Game (Exit).md",
+      "x": -5696.63037109375,
+      "y": -2958.453857421875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Field (From Gerudo Valley).md",
+      "x": -3395.140625,
+      "y": -5286.9736328125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Field (From Hyrule Market Town).md",
+      "x": -3419.111083984375,
+      "y": -4841.50341796875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Field (From Kaepora Gaebora).md",
+      "x": -3547.59619140625,
+      "y": -5024.25244140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Field (From Kakariko).md",
+      "x": -3194.16162109375,
+      "y": -4799.94091796875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Field (From Lake Hylia).md",
+      "x": -3015.279296875,
+      "y": -5047.57373046875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Field (From Lon Lon Ranch).md",
+      "x": -3300.098876953125,
+      "y": -4856.1767578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Field (From Lost Woods Bridge).md",
+      "x": -2964.772216796875,
+      "y": -5156.35791015625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Hyrule Field (From Zora).md",
+      "x": -3508.5390625,
+      "y": -5247.90869140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Bottom of the Well (Entrance).md",
+      "x": -4131.87841796875,
+      "y": -3917.215576171875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Bottom of the Well (Exit).md",
+      "x": -4166.59033203125,
+      "y": -4607.67724609375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Carpenter's Boarding House (Entrance).md",
+      "x": -3740.6435546875,
+      "y": -3584.625732421875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Carpenter's Boarding House (Exit).md",
+      "x": -3604.409423828125,
+      "y": -4127.54150390625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Death Mountain (From Crater).md",
+      "x": -1831.1058349609375,
+      "y": -3168.135986328125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Death Mountain (From Goron City).md",
+      "x": -2222.3466796875,
+      "y": -3026.36083984375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Death Mountain (From Kakariko).md",
+      "x": -2062.688720703125,
+      "y": -3196.644287109375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Death Mountain Crater (From Death Mountain).md",
+      "x": -1253.448974609375,
+      "y": -2323.80517578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Death Mountain Crater (From Goron City).md",
+      "x": -1373.884765625,
+      "y": -2405.746826171875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Dodongo's Cavern (Entrance).md",
+      "x": -2162.8662109375,
+      "y": -3130.58154296875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Dodongo's Cavern (Exit).md",
+      "x": -1495.19921875,
+      "y": -3016.148681640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Fire Temple (Entrance).md",
+      "x": -1194.7108154296875,
+      "y": -2826.667724609375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Fire Temple (Exit).md",
+      "x": -1861.6995849609375,
+      "y": -3591.9306640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Goron City (From Crater).md",
+      "x": -1634.6243896484375,
+      "y": -2258.454345703125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Goron City (From Death Mountain).md",
+      "x": -1953.3155517578125,
+      "y": -2362.43896484375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Goron City (From Lost Woods).md",
+      "x": -1962.7803955078125,
+      "y": -2614.569580078125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Goron Shop (Entrance).md",
+      "x": -1870.174560546875,
+      "y": -2715.57275390625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Goron Shop (Exit).md",
+      "x": -1606.249267578125,
+      "y": -2667.324951171875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Great Fairy (Crater, Entrance).md",
+      "x": -1422.4169921875,
+      "y": -2640.635009765625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Great Fairy (Crater, Exit).md",
+      "x": -1754.0225830078125,
+      "y": -2681.009765625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Great Fairy (Top, Entrance).md",
+      "x": -2157.114990234375,
+      "y": -2771.453369140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Great Fairy (Top, Exit).md",
+      "x": -1610.5445556640625,
+      "y": -2803.429443359375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Grottos/DMC Hammer Grotto (Entrance).md",
+      "x": -1309.89990234375,
+      "y": -2789.03271484375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Grottos/DMC Hammer Grotto (Exit).md",
+      "x": -738.9654541015625,
+      "y": -7085.5849609375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Grottos/DMC Upper Grotto (Entrance).md",
+      "x": -949.0958862304688,
+      "y": -2443.754150390625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Grottos/DMC Upper Grotto (Exit).md",
+      "x": 1255.1533203125,
+      "y": -6281.67626953125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Grottos/DMT Cow Grotto (Entrance).md",
+      "x": -1728.37646484375,
+      "y": -2876.798095703125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Grottos/DMT Cow Grotto (Exit).md",
+      "x": -1078.2454833984375,
+      "y": -6882.1083984375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Grottos/DMT Storms Grotto (Entrance).md",
+      "x": -2228.28515625,
+      "y": -2906.508056640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Grottos/DMT Storms Grotto (Exit).md",
+      "x": 1133.8587646484375,
+      "y": -6281.64794921875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Grottos/GC Grotto (Entrance).md",
+      "x": -1788.28271484375,
+      "y": -2244.8837890625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Grottos/GC Grotto (Exit).md",
+      "x": 985.7024536132812,
+      "y": -7237.0595703125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Kaepora Gaebora (Death Mountain Top).md",
+      "x": -1943.4654541015625,
+      "y": -3210.267578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/King Dodongo (Entrance).md",
+      "x": -1601.562255859375,
+      "y": -2923.0927734375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/King Dodongo (Exit).md",
+      "x": -1497.4586181640625,
+      "y": -3393.361328125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Volvagia (Entrance).md",
+      "x": -1591.6937255859375,
+      "y": -3156.88916015625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Death Mountain/Volvagia (Exit).md",
+      "x": -1429.75390625,
+      "y": -3672.737060546875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Granny's Potion Shop (Entrance).md",
+      "x": -4021.59912109375,
+      "y": -3869.873779296875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Granny's Potion Shop (Exit).md",
+      "x": -3397.634765625,
+      "y": -3530.034423828125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Bongo Bongo (Entrance).md",
+      "x": -4581.32421875,
+      "y": -3904.912841796875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Bongo Bongo (Exit).md",
+      "x": -4643.46533203125,
+      "y": -4323.0576171875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Dampé's Shack (Entrance).md",
+      "x": -4523.77734375,
+      "y": -4406.87646484375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Dampé's Shack (Exit).md",
+      "x": -4066.9794921875,
+      "y": -4478.529296875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Graveyard (From Kakariko Village).md",
+      "x": -4564.3544921875,
+      "y": -4232.82763671875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Grottos/Graveyard Composers Grave (Entrance).md",
+      "x": -4687.49560546875,
+      "y": -4133.90185546875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Grottos/Graveyard Composers Grave (Exit).md",
+      "x": 1800.458740234375,
+      "y": -5680.734375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Grottos/Graveyard Dampés Grave (Entrance).md",
+      "x": -4980.3203125,
+      "y": -4212.4658203125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Grottos/Graveyard Dampés Grave (Exit).md",
+      "x": -3630.234130859375,
+      "y": -3018.23583984375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Grottos/Graveyard Heart Piece Grave (Entrance).md",
+      "x": -4624.576171875,
+      "y": -4580.96337890625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Grottos/Graveyard Heart Piece Grave (Exit).md",
+      "x": 1431.10009765625,
+      "y": -5584.38134765625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Grottos/Graveyard Shield Grave (Entrance).md",
+      "x": -4833.60595703125,
+      "y": -4122.4892578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Grottos/Graveyard Shield Grave (Exit).md",
+      "x": 941.7946166992188,
+      "y": -6477.25927734375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Shadow Temple (Entrance).md",
+      "x": -5037.27099609375,
+      "y": -4358.04931640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Graveyard/Shadow Temple (Exit).md",
+      "x": -4467.06494140625,
+      "y": -3839.057373046875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Grottos/Kak Open Grotto (Entrance).md",
+      "x": -3847.63525390625,
+      "y": -3850.65087890625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Grottos/Kak Open Grotto (Exit).md",
+      "x": 1996.472412109375,
+      "y": -5974.18212890625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Grottos/Kak Redead Grotto (Entrance).md",
+      "x": -4231.21923828125,
+      "y": -3659.034423828125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Grottos/Kak Redead Grotto (Exit).md",
+      "x": 370.5626220703125,
+      "y": -6114.83203125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/House of Skulltula (Entrance).md",
+      "x": -4175.08154296875,
+      "y": -3805.386962890625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/House of Skulltula (Exit).md",
+      "x": -3424.694091796875,
+      "y": -4050.093017578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Impa's House Back (Entrance).md",
+      "x": -4287.89697265625,
+      "y": -3764.70556640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Impa's House Back (Exit).md",
+      "x": -3814.15673828125,
+      "y": -4266.79052734375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Impa's House Front (Entrance).md",
+      "x": -3884.498291015625,
+      "y": -3461.616455078125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Impa's House Front (Exit).md",
+      "x": -3844.188232421875,
+      "y": -4036.843505859375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Kakariko Bazaar (Entrance).md",
+      "x": -3733.670654296875,
+      "y": -3704.281494140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Kakariko Bazaar (Exit).md",
+      "x": -2960.509033203125,
+      "y": -3938.571044921875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Kakariko Medicine Shop (Back Door).md",
+      "x": -3602.982177734375,
+      "y": -3687.8427734375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Kakariko Medicine Shop (Front Door).md",
+      "x": -3736.98193359375,
+      "y": -3953.88623046875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Kakariko Village (From Death Mountain).md",
+      "x": -4056.972412109375,
+      "y": -3421.028564453125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Kakariko Village (From Graveyard).md",
+      "x": -4035.777099609375,
+      "y": -3988.96875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Kakariko Village (From Hyrule Field).md",
+      "x": -3952.22900390625,
+      "y": -3362.67578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Kakariko Village (From Kaepora Gaebora).md",
+      "x": -3925.50537109375,
+      "y": -3941.773681640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Kakariko Village (From Medicine Shop Back).md",
+      "x": -4254.130859375,
+      "y": -3541.355712890625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Kakariko Village (From Medicine Shop Front).md",
+      "x": -3730.72021484375,
+      "y": -3824.173095703125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Kakariko Village Shooting Gallery (Entrance).md",
+      "x": -3764.721923828125,
+      "y": -3467.180419921875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Kakariko Village Shooting Gallery (Exit).md",
+      "x": -3957.36279296875,
+      "y": -4316.8291015625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Windmill (Entrance).md",
+      "x": -4172.3232421875,
+      "y": -3453.6455078125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kakariko Village/Windmill (Exit).md",
+      "x": -3475.416748046875,
+      "y": -3248.136474609375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Deku Tree (Entrance).md",
+      "x": 594.1925048828125,
+      "y": -3940.9833984375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Deku Tree (Exit).md",
+      "x": -13.79340934753418,
+      "y": -4689.064453125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Forest Temple (Entrance).md",
+      "x": 23.989294052124023,
+      "y": -3970.296630859375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Forest Temple (Exit).md",
+      "x": 230.78451538085938,
+      "y": -3021.942626953125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Gohma (Entrance).md",
+      "x": 18.118207931518555,
+      "y": -4515.00927734375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Gohma (Exit).md",
+      "x": 450.3550720214844,
+      "y": -2495.740234375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/Forest Stage (Entrance).md",
+      "x": -283.4519958496094,
+      "y": -3513.154296875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/Forest Stage (Exit).md",
+      "x": 1859.9117431640625,
+      "y": -5342.26318359375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/KF Storms Grotto (Entrance).md",
+      "x": 612.5673217773438,
+      "y": -4315.41796875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/KF Storms Grotto (Exit).md",
+      "x": 634.9168090820312,
+      "y": -6680.69775390625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/LW Near Shortcuts Grotto (Entrance).md",
+      "x": -542.001953125,
+      "y": -3958.150634765625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/LW Near Shortcuts Grotto (Exit).md",
+      "x": 1028.6275634765625,
+      "y": -6217.7041015625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/LW Scrubs Grotto (Entrance).md",
+      "x": -605.643310546875,
+      "y": -3537.862060546875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/LW Scrubs Grotto (Exit).md",
+      "x": 1528.4334716796875,
+      "y": -6519.71142578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/SFM Fairy Grotto (Entrance).md",
+      "x": -120.20014190673828,
+      "y": -3923.28662109375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/SFM Fairy Grotto (Exit).md",
+      "x": 1749.3717041015625,
+      "y": -7021.88134765625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/SFM Storms Grotto (Entrance).md",
+      "x": 0.9009161591529846,
+      "y": -3455.735595703125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/SFM Storms Grotto (Exit).md",
+      "x": 1168.066162109375,
+      "y": -5891.248046875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/SFM Wolfos Grotto (Entrance).md",
+      "x": 188.96572875976562,
+      "y": -3510.35546875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Grottos/SFM Wolfos Grotto (Exit).md",
+      "x": 362.33648681640625,
+      "y": -6912.9501953125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/House of the Know-It-All Bros. (Entrance).md",
+      "x": 308.14593505859375,
+      "y": -3907.514892578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/House of the Know-It-All Bros. (Exit).md",
+      "x": 609.2347412109375,
+      "y": -3352.0869140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Kokiri Forest (From Lost Woods Bridge).md",
+      "x": 475.3587646484375,
+      "y": -3883.58740234375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Kokiri Forest (From Lost Woods).md",
+      "x": 264.9508361816406,
+      "y": -4338.28125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Kokiri Shop (Entrance).md",
+      "x": 171.15948486328125,
+      "y": -4098.2001953125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Kokiri Shop (Exit).md",
+      "x": 592.9292602539062,
+      "y": -2869.477783203125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Link's House (Entrance).md",
+      "x": 216.32261657714844,
+      "y": -3986.91015625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Link's House (Exit).md",
+      "x": 136.1154022216797,
+      "y": -3790.626953125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Lost Woods (From Goron City).md",
+      "x": -325.7763977050781,
+      "y": -3962.49853515625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Lost Woods (From Kokiri Forest).md",
+      "x": -677.8125,
+      "y": -3795.027587890625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Lost Woods (From Sacred Forest Meadow).md",
+      "x": -185.25804138183594,
+      "y": -3810.18017578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Lost Woods (From Zora's River).md",
+      "x": -418.7572937011719,
+      "y": -3468.273193359375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Lost Woods Bridge (From Hyrule Field).md",
+      "x": 518.6072387695312,
+      "y": -3712.445556640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Lost Woods Bridge (From Kokiri Forest).md",
+      "x": 443.0757751464844,
+      "y": -3590.197509765625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Mido's House (Entrance).md",
+      "x": 376.4789123535156,
+      "y": -4390.0693359375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Mido's House (Exit).md",
+      "x": 1113.2950439453125,
+      "y": -3592.29931640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Phantom Ganon (Entrance).md",
+      "x": 9.313956260681152,
+      "y": -2965.28515625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Phantom Ganon (Exit).md",
+      "x": 162.6788330078125,
+      "y": -3322.609375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Sacred Forest Meadow (From Lost Woods).md",
+      "x": -213.29859924316406,
+      "y": -3621.872802734375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Saria's House (Entrance).md",
+      "x": 504.0343017578125,
+      "y": -4382.91552734375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Saria's House (Exit).md",
+      "x": 655.3887939453125,
+      "y": -3138.99365234375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Twin's House (Entrance).md",
+      "x": 181.2400665283203,
+      "y": -4217.7763671875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Kokiri Forest/Twin's House (Exit).md",
+      "x": 764.3082885742188,
+      "y": -3578.85205078125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Fishing Hole (Entrance).md",
+      "x": -3276.78271484375,
+      "y": -2556.249755859375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Fishing Hole (Exit).md",
+      "x": -3356.52783203125,
+      "y": -2405.01513671875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Grottos/LH Grotto (Entrance).md",
+      "x": -3247.9072265625,
+      "y": -2788.07373046875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Grottos/LH Grotto (Exit).md",
+      "x": 1561.721923828125,
+      "y": -6161.58154296875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Kaepora Gaebora (Lake Hylia).md",
+      "x": -2849.708984375,
+      "y": -2463.073974609375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Lake Hylia (From Gerudo Valley River Exit).md",
+      "x": -3043.630615234375,
+      "y": -2901.62109375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Lake Hylia (From Hyrule Field).md",
+      "x": -3159.3349609375,
+      "y": -2869.3115234375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Lake Hylia (From Zora's Domain).md",
+      "x": -3290.079833984375,
+      "y": -2675.51171875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Lakeside Laboratory (Entrance).md",
+      "x": -2787.851318359375,
+      "y": -2566.33544921875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Lakeside Laboratory (Exit).md",
+      "x": -2957.338623046875,
+      "y": -2407.42333984375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Morpha (Entrance).md",
+      "x": -3151.158935546875,
+      "y": -2690.55517578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Morpha (Exit).md",
+      "x": -3026.204345703125,
+      "y": -2763.495361328125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Water Temple (Entrance).md",
+      "x": -3137.486572265625,
+      "y": -2407.360595703125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lake Hylia/Water Temple (Exit).md",
+      "x": -2971.3583984375,
+      "y": -2285.2333984375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lon Lon Ranch/Barn (Entrance).md",
+      "x": -2522.1171875,
+      "y": -6063.0498046875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lon Lon Ranch/Barn (Exit).md",
+      "x": -2371.885009765625,
+      "y": -6247.69677734375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lon Lon Ranch/Grottos/LLR Grotto (Entrance).md",
+      "x": -2632.869384765625,
+      "y": -6294.96337890625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lon Lon Ranch/Grottos/LLR Grotto (Exit).md",
+      "x": 952.9802856445312,
+      "y": -5949.87744140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lon Lon Ranch/Lon Lon Ranch (From Hyrule Field).md",
+      "x": -2548.371826171875,
+      "y": -6197.4697265625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lon Lon Ranch/Talon's House (Entrance).md",
+      "x": -2614.91650390625,
+      "y": -5883.7568359375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lon Lon Ranch/Talon's House (Exit).md",
+      "x": -2675.0966796875,
+      "y": -6154.3525390625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lon Lon Ranch/Tower (Entrance).md",
+      "x": -2905.428955078125,
+      "y": -6307.73779296875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Lon Lon Ranch/Tower (Exit).md",
+      "x": -2750.0234375,
+      "y": -6268.9833984375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Barinade (Entrance).md",
+      "x": -5020.70751953125,
+      "y": -1304.8857421875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Barinade (Exit).md",
+      "x": -5137.638671875,
+      "y": -795.66015625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Great Fairy (Zora's Fountain, Entrance).md",
+      "x": -5811.07080078125,
+      "y": -659.2197265625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Great Fairy (Zora's Fountain, Exit).md",
+      "x": -5602.9462890625,
+      "y": -447.8544006347656
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Grottos/ZD Storms Grotto (Entrance).md",
+      "x": -5344.583984375,
+      "y": -1106.578369140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Grottos/ZD Storms Grotto (Exit).md",
+      "x": 1261.7625732421875,
+      "y": -5669.123046875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Grottos/ZR Fairy Grotto (Entrance).md",
+      "x": -5578.919921875,
+      "y": -1341.1866455078125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Grottos/ZR Fairy Grotto (Exit).md",
+      "x": 15.061074256896973,
+      "y": -6696.953125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Grottos/ZR Open Grotto (Entrance).md",
+      "x": -5831.763671875,
+      "y": -1250.855712890625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Grottos/ZR Open Grotto (Exit).md",
+      "x": 765.5767211914062,
+      "y": -6109.7548828125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Grottos/ZR Storms Grotto (Entrance).md",
+      "x": -5464.57080078125,
+      "y": -1285.52392578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Grottos/ZR Storms Grotto (Exit).md",
+      "x": 1032.9742431640625,
+      "y": -6065.08642578125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Ice Cavern (Entrance).md",
+      "x": -5907.677734375,
+      "y": -937.1295776367188
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Ice Cavern (Exit).md",
+      "x": -5266.7763671875,
+      "y": -720.0491943359375
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Inside Jabu-Jabu's Belly (Entrance).md",
+      "x": -5902.63720703125,
+      "y": -782.4013671875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Inside Jabu-Jabu's Belly (Exit).md",
+      "x": -5170.48681640625,
+      "y": -1387.854736328125
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Zora Shop (Entrance).md",
+      "x": -5036.8544921875,
+      "y": -966.2472534179688
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Zora Shop (Exit).md",
+      "x": -5253.9677734375,
+      "y": -977.7774047851562
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Zora's Domain (From Lake Hylia).md",
+      "x": -5111.8603515625,
+      "y": -1061.7359619140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Zora's Domain (From Zora's Fountain).md",
+      "x": -5448.6416015625,
+      "y": -1046.8101806640625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Zora's Domain (From Zora's River).md",
+      "x": -5018.39404296875,
+      "y": -809.1080932617188
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Zora's Fountain (From Zora's Domain).md",
+      "x": -5671.251953125,
+      "y": -610.028076171875
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Zora's River (From Hyrule Field).md",
+      "x": -5710.3427734375,
+      "y": -1334.1031494140625
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Zora's River (From Lost Woods).md",
+      "x": -5778.7939453125,
+      "y": -876.8698120117188
+    },
+    {
+      "id": "Ocarina Of Time/Hyrule Field/Zora's Domain/Zora's River (From Zora's Domain).md",
+      "x": -5889.0283203125,
+      "y": -1098.783447265625
+    },
+    {
+      "id": "#GerudoValley",
+      "x": -1110.470703125,
+      "y": -5014.439453125
+    },
+    {
+      "id": "#CarpentersTent",
+      "x": -1031.9163818359375,
+      "y": -5250.28466796875
+    },
+    {
+      "id": "#DesertColossus",
+      "x": -1058.2645263671875,
+      "y": -5852.119140625
+    },
+    {
+      "id": "#GerudosFortress",
+      "x": -1098.5997314453125,
+      "y": -5721.72607421875
+    },
+    {
+      "id": "#GerudosTrainingGrounds",
+      "x": -861.0452880859375,
+      "y": -5086.4443359375
+    },
+    {
+      "id": "#DesertColossusGreatFairy",
+      "x": -883.7113037109375,
+      "y": -5486.763671875
+    },
+    {
+      "id": "#ColossusGrotto",
+      "x": 1843.3695068359375,
+      "y": -6219.83154296875
+    },
+    {
+      "id": "#GFStormsGrotto",
+      "x": 1439.7850341796875,
+      "y": -6100.7861328125
+    },
+    {
+      "id": "#GVOctorokGrotto",
+      "x": 2038.046875,
+      "y": -6548.927734375
+    },
+    {
+      "id": "#GVStormsGrotto",
+      "x": 893.6063842773438,
+      "y": -6082.1826171875
+    },
+    {
+      "id": "#HauntedWasteland",
+      "x": -1286.932373046875,
+      "y": -5249.859375
+    },
+    {
+      "id": "#SpiritTemple",
+      "x": -1229.1571044921875,
+      "y": -5671.3935546875
+    },
+    {
+      "id": "#Twinrova",
+      "x": -1189.451904296875,
+      "y": -5800.12353515625
+    },
+    {
+      "id": "#HyruleField",
+      "x": -3253.658935546875,
+      "y": -5092.30615234375
+    },
+    {
+      "id": "#HFCowGrotto",
+      "x": 2271.69921875,
+      "y": -5954.7802734375
+    },
+    {
+      "id": "#HFFairyGrotto",
+      "x": 1197.839599609375,
+      "y": -5770.6806640625
+    },
+    {
+      "id": "#HFInsideFenceGrotto",
+      "x": 258.65899658203125,
+      "y": -7423.18115234375
+    },
+    {
+      "id": "#HFNearKakGrotto",
+      "x": 1396.67578125,
+      "y": -6560.65869140625
+    },
+    {
+      "id": "#HFNearMarketGrotto",
+      "x": 1427.597900390625,
+      "y": -6265.42578125
+    },
+    {
+      "id": "#HFOpenGrotto",
+      "x": 1150.1787109375,
+      "y": -5503.826171875
+    },
+    {
+      "id": "#HFSoutheastGrotto",
+      "x": -419.2600402832031,
+      "y": -6927.81103515625
+    },
+    {
+      "id": "#HFTektiteGrotto",
+      "x": 1625.3045654296875,
+      "y": -6301.19775390625
+    },
+    {
+      "id": "#Market",
+      "x": -4844.203125,
+      "y": -2707.10205078125
+    },
+    {
+      "id": "#BombchuBowlingAlley",
+      "x": -5954.361328125,
+      "y": -3068.517578125
+    },
+    {
+      "id": "#BombchuShop",
+      "x": -5550.986328125,
+      "y": -3358.313232421875
+    },
+    {
+      "id": "#InsideTheGate",
+      "x": -6258.703125,
+      "y": -3641.150390625
+    },
+    {
+      "id": "#GuardHouse",
+      "x": -6070.0068359375,
+      "y": -3133.23095703125
+    },
+    {
+      "id": "#HappyMaskShop",
+      "x": -5560.662109375,
+      "y": -2933.890869140625
+    },
+    {
+      "id": "#HyruleCastleOutskirts",
+      "x": -5960.830078125,
+      "y": -3342.37353515625
+    },
+    {
+      "id": "#GanonsCastle",
+      "x": -6370.43310546875,
+      "y": -3212.920166015625
+    },
+    {
+      "id": "#Ganondorf",
+      "x": -6332.78173828125,
+      "y": -3381.3720703125
+    },
+    {
+      "id": "#HyruleCastleOutskirtsGreatFairy",
+      "x": -5026.4130859375,
+      "y": -2358.44189453125
+    },
+    {
+      "id": "#HyruleCastleRuinsGreatFairy",
+      "x": -5668.5166015625,
+      "y": -3112.834228515625
+    },
+    {
+      "id": "#HCStormsGrotto",
+      "x": 1380.47998046875,
+      "y": -5704.525390625
+    },
+    {
+      "id": "#HyruleCastle",
+      "x": -5459.9091796875,
+      "y": -2786.671142578125
+    },
+    {
+      "id": "#HyruleCastleSanctum",
+      "x": -5249.8818359375,
+      "y": -2581.45361328125
+    },
+    {
+      "id": "#MarketMedicineShop",
+      "x": -5603.81298828125,
+      "y": -2801.6103515625
+    },
+    {
+      "id": "#MarketShootingGallery",
+      "x": -5548.21923828125,
+      "y": -3216.181396484375
+    },
+    {
+      "id": "#MarketBazaar",
+      "x": -5257.3544921875,
+      "y": -2716.626220703125
+    },
+    {
+      "id": "#RichardsHouse",
+      "x": -5414.384765625,
+      "y": -3174.10205078125
+    },
+    {
+      "id": "#TempleofTimeCourtyard",
+      "x": -5747.26513671875,
+      "y": -2460.81884765625
+    },
+    {
+      "id": "#TempleofTime",
+      "x": -6068.904296875,
+      "y": -2722.98974609375
+    },
+    {
+      "id": "#OtherHouse",
+      "x": -5753.48486328125,
+      "y": -2721.291748046875
+    },
+    {
+      "id": "#TreasureChestGame",
+      "x": -5444.04052734375,
+      "y": -2905.6181640625
+    },
+    {
+      "id": "#KakarikoVillage",
+      "x": -3992.505615234375,
+      "y": -3665.173583984375
+    },
+    {
+      "id": "#BottomoftheWell",
+      "x": -3962.551025390625,
+      "y": -4765.578125
+    },
+    {
+      "id": "#CarpentersBoardingHouse",
+      "x": -3635.472900390625,
+      "y": -4383.6767578125
+    },
+    {
+      "id": "#DeathMountain",
+      "x": -1974.6630859375,
+      "y": -2953.9248046875
+    },
+    {
+      "id": "#DeathMountainCrater",
+      "x": -1174.4224853515625,
+      "y": -2569.4365234375
+    },
+    {
+      "id": "#DodongosCavern",
+      "x": -1711.6920166015625,
+      "y": -3156.30126953125
+    },
+    {
+      "id": "#FireTemple",
+      "x": -1755.0908203125,
+      "y": -3356.85986328125
+    },
+    {
+      "id": "#GoronCity",
+      "x": -1733.1361083984375,
+      "y": -2496.936279296875
+    },
+    {
+      "id": "#GoronShop",
+      "x": -1391.276611328125,
+      "y": -2524.6357421875
+    },
+    {
+      "id": "#DeathMountainCraterGreatFairy",
+      "x": -1593.267822265625,
+      "y": -2479.1796875
+    },
+    {
+      "id": "#DeathMountainTopGreatFairy",
+      "x": -1767.496826171875,
+      "y": -3008.299072265625
+    },
+    {
+      "id": "#DMCHammerGrotto",
+      "x": -657.3975219726562,
+      "y": -7330.35986328125
+    },
+    {
+      "id": "#DMCUpperGrotto",
+      "x": 1226.2471923828125,
+      "y": -6538.0810546875
+    },
+    {
+      "id": "#DMTCowGrotto",
+      "x": -1180.6435546875,
+      "y": -7118.92822265625
+    },
+    {
+      "id": "#DMTStormsGrotto",
+      "x": 1319.95751953125,
+      "y": -6460.37744140625
+    },
+    {
+      "id": "#GCGrotto",
+      "x": 1122.3375244140625,
+      "y": -7018.20458984375
+    },
+    {
+      "id": "#KingDodongo",
+      "x": -1306.803466796875,
+      "y": -3219.497802734375
+    },
+    {
+      "id": "#Volvagia",
+      "x": -1212.41357421875,
+      "y": -3533.685302734375
+    },
+    {
+      "id": "#GrannysPotionShop",
+      "x": -3304.989013671875,
+      "y": -3289.2353515625
+    },
+    {
+      "id": "#ShadowTemple",
+      "x": -4399.62353515625,
+      "y": -4088.113525390625
+    },
+    {
+      "id": "#BongoBongo",
+      "x": -4537.88427734375,
+      "y": -4087.58740234375
+    },
+    {
+      "id": "#Graveyard",
+      "x": -4779.80615234375,
+      "y": -4374.8515625
+    },
+    {
+      "id": "#DampesShack",
+      "x": -4285.76318359375,
+      "y": -4341.76220703125
+    },
+    {
+      "id": "#ComposersGrave",
+      "x": 1702.06787109375,
+      "y": -5919.25
+    },
+    {
+      "id": "#WindmillDampesGrave",
+      "x": -3733.34375,
+      "y": -3254.734375
+    },
+    {
+      "id": "#GraveyardHeartPieceGrave",
+      "x": 1470.9395751953125,
+      "y": -5839.30126953125
+    },
+    {
+      "id": "#ShieldGrave",
+      "x": 1068.6839599609375,
+      "y": -6701.921875
+    },
+    {
+      "id": "#KakOpenGrotto",
+      "x": 1921.9246826171875,
+      "y": -5727.15966796875
+    },
+    {
+      "id": "#KakRedeadGrotto",
+      "x": 342.2447509765625,
+      "y": -6371.29248046875
+    },
+    {
+      "id": "#HouseofSkulltula",
+      "x": -3320.3232421875,
+      "y": -3814.119140625
+    },
+    {
+      "id": "#ImpasHouseBack",
+      "x": -4071.817138671875,
+      "y": -4280.7705078125
+    },
+    {
+      "id": "#ImpasHouseFront",
+      "x": -3630.91064453125,
+      "y": -3890.785400390625
+    },
+    {
+      "id": "#KakarikoVillageBazaar",
+      "x": -3198.127197265625,
+      "y": -4039.09033203125
+    },
+    {
+      "id": "#KakarikoVillageMedicineShop",
+      "x": -3858.180908203125,
+      "y": -3726.06982421875
+    },
+    {
+      "id": "#KakarikoVillageShootingGallery",
+      "x": -4183.9091796875,
+      "y": -4193.29736328125
+    },
+    {
+      "id": "#KokiriForest",
+      "x": 426.27166748046875,
+      "y": -4136.89501953125
+    },
+    {
+      "id": "#DekuTree",
+      "x": -236.22972106933594,
+      "y": -4558.318359375
+    },
+    {
+      "id": "#SacredForestMeadow",
+      "x": 28.342426300048828,
+      "y": -3712.296142578125
+    },
+    {
+      "id": "#ForestTemple",
+      "x": 62.71919250488281,
+      "y": -3217.705078125
+    },
+    {
+      "id": "#Gohma",
+      "x": 705.0560302734375,
+      "y": -2454.538330078125
+    },
+    {
+      "id": "#LostWoods",
+      "x": -429.1807861328125,
+      "y": -3726.095703125
+    },
+    {
+      "id": "#ForestStage",
+      "x": 2009.155029296875,
+      "y": -5552.73876953125
+    },
+    {
+      "id": "#KFStormsGrotto",
+      "x": 753.8049926757812,
+      "y": -6909.693359375
+    },
+    {
+      "id": "#LWNearShortcutsGrotto",
+      "x": 1096.4141845703125,
+      "y": -6466.6904296875
+    },
+    {
+      "id": "#LWScrubsGrotto",
+      "x": 1732.821044921875,
+      "y": -6362.2255859375
+    },
+    {
+      "id": "#SFMFairyGrotto",
+      "x": 1495.8822021484375,
+      "y": -7070.01171875
+    },
+    {
+      "id": "#SFMStormsGrotto",
+      "x": 1246.5379638671875,
+      "y": -6137.06689453125
+    },
+    {
+      "id": "#SFMWolfosGrotto",
+      "x": 210.6798095703125,
+      "y": -7121.6806640625
+    },
+    {
+      "id": "#HouseoftheKnowItAllBros",
+      "x": 802.9487915039062,
+      "y": -3181.67431640625
+    },
+    {
+      "id": "#KokiriShop",
+      "x": 829.84375,
+      "y": -2971.681884765625
+    },
+    {
+      "id": "#LinksHouse",
+      "x": 301.6315002441406,
+      "y": -3592.683349609375
+    },
+    {
+      "id": "#LostWoodsBridge",
+      "x": 270.0149841308594,
+      "y": -3781.562255859375
+    },
+    {
+      "id": "#MidosHouse",
+      "x": 1243.57568359375,
+      "y": -3369.598388671875
+    },
+    {
+      "id": "#PhantomGanon",
+      "x": -79.54020690917969,
+      "y": -3233.682373046875
+    },
+    {
+      "id": "#SariasHouse",
+      "x": 411.15411376953125,
+      "y": -3222.167236328125
+    },
+    {
+      "id": "#TwinsHouse",
+      "x": 538.4229125976562,
+      "y": -3454.146728515625
+    },
+    {
+      "id": "#LakeHylia",
+      "x": -3033.99658203125,
+      "y": -2643.74853515625
+    },
+    {
+      "id": "#FishingHole",
+      "x": -3506.96923828125,
+      "y": -2195.4228515625
+    },
+    {
+      "id": "#LHGrotto",
+      "x": 1329.58935546875,
+      "y": -6048.87548828125
+    },
+    {
+      "id": "#LakesideLaboratory",
+      "x": -3157.5947265625,
+      "y": -2570.182861328125
+    },
+    {
+      "id": "#WaterTemple",
+      "x": -2940.55810546875,
+      "y": -2541.472900390625
+    },
+    {
+      "id": "#Morpha",
+      "x": -3055.524658203125,
+      "y": -2507.082275390625
+    },
+    {
+      "id": "#LonLonRanch",
+      "x": -2779.411865234375,
+      "y": -6082.56396484375
+    },
+    {
+      "id": "#Barn",
+      "x": -2371.833251953125,
+      "y": -5989.66748046875
+    },
+    {
+      "id": "#LLRGrotto",
+      "x": 1124.5579833984375,
+      "y": -6142.6279296875
+    },
+    {
+      "id": "#TalonsHouse",
+      "x": -2931.425537109375,
+      "y": -6183.91259765625
+    },
+    {
+      "id": "#Tower",
+      "x": -2661.596435546875,
+      "y": -6026.56103515625
+    },
+    {
+      "id": "#InsideJabuJabusBelly",
+      "x": -5213.53857421875,
+      "y": -1133.4708251953125
+    },
+    {
+      "id": "#Barinade",
+      "x": -4880.52099609375,
+      "y": -773.6975708007812
+    },
+    {
+      "id": "#ZorasFountain",
+      "x": -5659.14013671875,
+      "y": -867.7603149414062
+    },
+    {
+      "id": "#ZorasFountainGreatFairy",
+      "x": -5409.03369140625,
+      "y": -618.0477294921875
+    },
+    {
+      "id": "#ZorasDomain",
+      "x": -5271.5771484375,
+      "y": -859.0765380859375
+    },
+    {
+      "id": "#ZDStormsGrotto",
+      "x": 1285.369140625,
+      "y": -5926.080078125
+    },
+    {
+      "id": "#ZorasRiver",
+      "x": -5631.21142578125,
+      "y": -1088.5216064453125
+    },
+    {
+      "id": "#ZRFairyGrotto",
+      "x": -98.55964660644531,
+      "y": -6928.60205078125
+    },
+    {
+      "id": "#ZROpenGrotto",
+      "x": 839.5528564453125,
+      "y": -6356.95556640625
+    },
+    {
+      "id": "#ZRStormsGrotto",
+      "x": 952.121826171875,
+      "y": -6310.1533203125
+    },
+    {
+      "id": "#IceCavern",
+      "x": -5414.123046875,
+      "y": -931.8817749023438
+    },
+    {
+      "id": "#ZoraShop",
+      "x": -5458.45361328125,
+      "y": -820.370361328125
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}

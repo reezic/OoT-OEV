@@ -1,0 +1,1 @@
+color_HyruleCastleTown #Market[[Hyrule Market Medicine Shop (Exit)]]

@@ -1,0 +1,1 @@
+color_GerudoValley #HauntedWasteland[[Desert Colossus (From Haunted Wasteland)]]

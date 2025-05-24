@@ -1,0 +1,1 @@
+color_KokiriForest #LostWoods[[Kokiri Forest (From Lost Woods)]]

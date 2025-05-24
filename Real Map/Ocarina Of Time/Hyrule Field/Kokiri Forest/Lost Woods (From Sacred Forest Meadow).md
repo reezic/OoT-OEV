@@ -1,0 +1,1 @@
+color_KokiriForest #LostWoods[[Sacred Forest Meadow (From Lost Woods)]]

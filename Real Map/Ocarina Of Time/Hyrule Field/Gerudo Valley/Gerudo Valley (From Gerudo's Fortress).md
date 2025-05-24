@@ -1,0 +1,1 @@
+color_GerudoValley #GerudoValley[[Gerudo's Fortress (From Gerudo Valley)]]

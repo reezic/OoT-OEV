@@ -1,0 +1,1 @@
+color_LonLonRanch #LonLonRanch[[Tower (Exit)]]

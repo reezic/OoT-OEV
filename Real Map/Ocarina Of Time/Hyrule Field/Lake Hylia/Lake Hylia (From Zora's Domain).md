@@ -1,0 +1,1 @@
+color_LakeHylia   #LakeHylia[[Zora's Domain (From Lake Hylia)]]

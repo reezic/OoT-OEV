@@ -1,0 +1,1 @@
+color_KokiriForest #KokiriForest[[Twin's House (Exit)]]

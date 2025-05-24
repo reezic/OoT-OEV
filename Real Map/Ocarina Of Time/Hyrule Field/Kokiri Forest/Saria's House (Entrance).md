@@ -1,0 +1,1 @@
+color_KokiriForest #KokiriForest[[Saria's House (Exit)]]

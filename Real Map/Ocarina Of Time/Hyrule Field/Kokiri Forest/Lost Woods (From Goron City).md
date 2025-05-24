@@ -1,0 +1,1 @@
+color_KokiriForest #LostWoods[[Goron City (From Lost Woods)]]

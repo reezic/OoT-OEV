@@ -1,0 +1,1 @@
+color_HyruleCastleTown  #HyruleCastleOutskirts[[Hyrule Castle (From Outskirts)]]

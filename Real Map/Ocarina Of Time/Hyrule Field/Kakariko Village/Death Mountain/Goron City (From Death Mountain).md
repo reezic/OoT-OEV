@@ -1,0 +1,1 @@
+color_DeathMountain #GoronCity[[Death Mountain (From Goron City)]]

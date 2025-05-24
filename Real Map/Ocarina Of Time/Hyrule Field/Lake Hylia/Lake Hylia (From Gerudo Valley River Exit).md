@@ -1,0 +1,1 @@
+color_LakeHylia #LakeHylia[[Gerudo Valley (River Exit)]]

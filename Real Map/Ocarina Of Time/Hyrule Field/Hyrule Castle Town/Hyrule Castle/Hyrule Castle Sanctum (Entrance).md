@@ -1,0 +1,1 @@
+color_HyruleCastleTown #HyruleCastle[[Hyrule Castle Sanctum (Exit)]]

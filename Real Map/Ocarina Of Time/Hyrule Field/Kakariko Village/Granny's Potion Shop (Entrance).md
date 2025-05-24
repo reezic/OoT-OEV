@@ -1,0 +1,1 @@
+color_KakarikoVillage #KakarikoVillage[[Granny's Potion Shop (Exit)]]

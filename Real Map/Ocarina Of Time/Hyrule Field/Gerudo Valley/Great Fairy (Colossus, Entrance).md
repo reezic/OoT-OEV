@@ -1,0 +1,1 @@
+color_GerudoValley #DesertColossus[[Great Fairy (Colossus, Exit)]]

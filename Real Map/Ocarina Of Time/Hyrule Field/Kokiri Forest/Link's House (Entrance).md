@@ -1,0 +1,1 @@
+color_KokiriForest #KokiriForest[[Link's House (Exit)]]

@@ -1,0 +1,1 @@
+color_GerudoValley  #GerudosFortress[[Haunted Wasteland (From Gerudo's Fortress)]]

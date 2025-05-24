@@ -1,0 +1,1 @@
+IsGrotto #LostWoods[[Forest Stage (Exit)]]

@@ -1,0 +1,1 @@
+color_KakarikoVillage  #KakarikoVillage[[Kakariko Medicine Shop (Back Door)]]

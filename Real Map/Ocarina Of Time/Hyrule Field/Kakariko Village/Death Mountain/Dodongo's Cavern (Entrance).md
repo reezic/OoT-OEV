@@ -1,0 +1,1 @@
+color_DodongosCavern #DeathMountain[[Dodongo's Cavern (Exit)]]

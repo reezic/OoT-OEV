@@ -1,0 +1,170 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "isgrotto",
+      "color": {
+        "a": 1,
+        "rgb": 5453388
+      }
+    },
+    {
+      "query": "color_ForestTemple",
+      "color": {
+        "a": 1,
+        "rgb": 11073406
+      }
+    },
+    {
+      "query": "color_InsideJabuJabusBelly",
+      "color": {
+        "a": 1,
+        "rgb": 3438303
+      }
+    },
+    {
+      "query": "color_ShadowTemple",
+      "color": {
+        "a": 1,
+        "rgb": 9771713
+      }
+    },
+    {
+      "query": "color_FireTemple",
+      "color": {
+        "a": 1,
+        "rgb": 12986922
+      }
+    },
+    {
+      "query": "color_BottomoftheWell",
+      "color": {
+        "a": 1,
+        "rgb": 12862962
+      }
+    },
+    {
+      "query": "color_DekuTree",
+      "color": {
+        "a": 1,
+        "rgb": 9565302
+      }
+    },
+    {
+      "query": "color_DodongosCavern",
+      "color": {
+        "a": 1,
+        "rgb": 15876160
+      }
+    },
+    {
+      "query": "color_GanonsCastle",
+      "color": {
+        "a": 1,
+        "rgb": 13958912
+      }
+    },
+    {
+      "query": "color_GerudosTrainingGrounds",
+      "color": {
+        "a": 1,
+        "rgb": 16031319
+      }
+    },
+    {
+      "query": "color_SpiritTemple",
+      "color": {
+        "a": 1,
+        "rgb": 16772127
+      }
+    },
+    {
+      "query": "color_WaterTemple",
+      "color": {
+        "a": 1,
+        "rgb": 1920215
+      }
+    },
+    {
+      "query": "color_DeathMountain",
+      "color": {
+        "a": 1,
+        "rgb": 11573332
+      }
+    },
+    {
+      "query": "color_GerudoValley",
+      "color": {
+        "a": 1,
+        "rgb": 15039268
+      }
+    },
+    {
+      "query": "color_HyruleCastleTown",
+      "color": {
+        "a": 1,
+        "rgb": 16031487
+      }
+    },
+    {
+      "query": "color_HyruleField",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "color_KokiriForest",
+      "color": {
+        "a": 1,
+        "rgb": 762624
+      }
+    },
+    {
+      "query": "color_KakarikoVillage",
+      "color": {
+        "a": 1,
+        "rgb": 11565176
+      }
+    },
+    {
+      "query": "color_ZorasDomain",
+      "color": {
+        "a": 1,
+        "rgb": 6479824
+      }
+    },
+    {
+      "query": "color_LakeHylia",
+      "color": {
+        "a": 1,
+        "rgb": 7568370
+      }
+    },
+    {
+      "query": "color_LonLonRanch",
+      "color": {
+        "a": 1,
+        "rgb": 16766381
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.36349480968858,
+  "lineSizeMultiplier": 2.4143598615917,
+  "collapse-forces": false,
+  "centerStrength": 0.323529411764706,
+  "repelStrength": 15.8823529411765,
+  "linkStrength": 1,
+  "linkDistance": 158,
+  "scale": 0.16348370567224613,
+  "close": true
+}

@@ -1,0 +1,1 @@
+color_HyruleCastleTown #InsideTheGate[[Hyrule Field (From Hyrule Market Town)]]

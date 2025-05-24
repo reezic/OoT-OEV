@@ -1,0 +1,1 @@
+color_ZorasDomain #ZorasFountain[[Great Fairy (Zora's Fountain, Exit)]]

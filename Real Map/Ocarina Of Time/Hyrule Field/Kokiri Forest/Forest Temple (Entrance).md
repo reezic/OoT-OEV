@@ -1,0 +1,1 @@
+color_ForestTemple #SacredForestMeadow[[Forest Temple (Exit)]]

@@ -1,0 +1,1 @@
+color_ShadowTemple #Graveyard[[Shadow Temple (Exit)]]

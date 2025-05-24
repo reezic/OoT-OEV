@@ -1,0 +1,1 @@
+color_ForestTemple #ForestTemple[[Phantom Ganon (Exit)]]

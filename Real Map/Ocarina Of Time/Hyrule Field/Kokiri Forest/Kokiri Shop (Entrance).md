@@ -1,0 +1,1 @@
+color_KokiriForest #KokiriForest[[Kokiri Shop (Exit)]]

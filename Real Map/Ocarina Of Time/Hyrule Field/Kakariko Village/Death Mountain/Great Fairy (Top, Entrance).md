@@ -1,0 +1,1 @@
+color_DeathMountain #DeathMountain[[Great Fairy (Top, Exit)]]

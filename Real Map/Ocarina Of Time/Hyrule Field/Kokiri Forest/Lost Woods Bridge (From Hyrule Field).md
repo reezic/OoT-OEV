@@ -1,0 +1,1 @@
+color_KokiriForest #LostWoodsBridge[[Hyrule Field (From Lost Woods Bridge)]]

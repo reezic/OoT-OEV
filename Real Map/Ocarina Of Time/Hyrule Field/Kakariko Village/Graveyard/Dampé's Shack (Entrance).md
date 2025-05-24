@@ -1,0 +1,1 @@
+color_KakarikoVillage #Graveyard[[Dampé's Shack (Exit)]]

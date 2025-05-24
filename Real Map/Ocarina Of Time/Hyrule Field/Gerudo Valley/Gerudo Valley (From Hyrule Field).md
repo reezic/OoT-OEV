@@ -1,0 +1,1 @@
+color_GerudoValley #GerudoValley[[Hyrule Field (From Gerudo Valley)]]

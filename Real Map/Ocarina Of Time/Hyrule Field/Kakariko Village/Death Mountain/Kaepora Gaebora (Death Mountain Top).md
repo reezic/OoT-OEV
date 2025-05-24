@@ -1,0 +1,1 @@
+color_DeathMountain #DeathMountain [[Kakariko Village (From Kaepora Gaebora)]]

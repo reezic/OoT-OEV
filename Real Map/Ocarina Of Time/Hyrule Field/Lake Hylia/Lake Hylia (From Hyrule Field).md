@@ -1,0 +1,1 @@
+color_LakeHylia #LakeHylia[[Hyrule Field (From Lake Hylia)]]

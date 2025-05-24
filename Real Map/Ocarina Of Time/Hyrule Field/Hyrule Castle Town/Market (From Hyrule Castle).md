@@ -1,0 +1,1 @@
+color_HyruleCastleTown #Market[[Hyrule Castle Outskirts (From Hyrule Market Town)]]

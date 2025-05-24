@@ -1,0 +1,1 @@
+color_KakarikoVillage #KakarikoVillage[[House of Skulltula (Exit)]]
