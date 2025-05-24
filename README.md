@@ -49,7 +49,7 @@ If for some reason the node text colors are not matching the node colors when yo
 This project comes pre-loaded with a couple of handy Obsidian plugins to make the experience a bit more user-friendly.
 
 ##### Graph View Text Size
-libasoles' unofficial _Graph View Text Size_ plugin lets you adjust the font size of nodes in Obsidian's graph view, and allows for matching a node's text color with the node color, which makes it a lot easier to read the map at a glance once you get to know what colors correspond to what area.
+libasoles' unofficial _Graph View Text Size_ plugin lets you adjust the font size of nodes in Obsidian's graph view, and allows for matching a node's text color with the node color, which makes it a lot easier to read the map at a glance.
 
 Check it out here: https://github.com/libasoles/graph-view-text-size
 
