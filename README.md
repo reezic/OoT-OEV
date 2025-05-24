@@ -10,11 +10,12 @@ Get Obsidian here: https://obsidian.md/
 
 <br>
 
-## Templates
+## Templates 
+_Click the header names to download the latest template version_
 <table>
   <tr>
-    <th> Clean </th>
-    <th> Real Map </th>
+    <th><a href="https://github.com/reezic/OoT-OEV/releases/download/release/Clean.zip">Clean</a></th>
+    <th><a href="https://github.com/reezic/OoT-OEV/releases/download/release/Real_Map.zip/">Real Map</a></th>
   </tr>
   <tr>
     <td>
