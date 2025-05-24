@@ -19,11 +19,11 @@ Get Obsidian here: https://obsidian.md/
   <tr>
     <td>
       A clean template with no linked entrances.<br><br>
-      <img src="https://github.com/user-attachments/assets/d1bb0bb6-a019-40fb-9a9d-05d342b0f8a2" width="400">
+      <img src="https://github.com/user-attachments/assets/e12bda2a-f004-4f1e-a4a6-6543bdd9054d" width="400">
     </td>
     <td>
       Entrances are linked as they are in the real game!<br><br>
-      <img src="https://github.com/user-attachments/assets/533fd754-1f97-4b93-ae42-6a3a8e1c34a4" width="400">
+      <img src="https://github.com/user-attachments/assets/fec7a97e-d645-463b-be7a-0cb1acc39601" width="400">
     </td>
   </tr>
 </table>
