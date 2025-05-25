@@ -11,7 +11,7 @@ Get Obsidian here: https://obsidian.md/
 <br>
 
 ## Templates 
-_Click the header names to download the latest template version_
+Click the header names to download the latest template version
 <table>
   <tr>
     <th><a href="https://github.com/reezic/OoT-OEV/releases/download/release/Clean.zip">Clean</a></th>
@@ -32,14 +32,14 @@ _Click the header names to download the latest template version_
 <br>
 
 #### _Notes_:
-_[Sanqui's "Obsidian Persistent Graph Plugin"](https://github.com/libasoles/graph-view-text-size) is included in this project._<br>
+[Sanqui's "Obsidian Persistent Graph Plugin"](https://github.com/libasoles/graph-view-text-size) is included in this project.<br>
 When loading a template, press CTRL+P, then search for "restore" and click "Persistent Graph: Restore graph node locations" to load the correct node locations.
 
 To save your own locations, press CRTL+P, then search for "save" and click "Persistent Graph: Save graph node positions".
 
 <br>
 
-_[libasoles' unofficial "Graph View Text Size" plugin](https://github.com/libasoles/graph-view-text-size) is included in this project._<br>
+[libasoles' unofficial "Graph View Text Size" plugin](https://github.com/libasoles/graph-view-text-size) is included in this project.<br>
 If for some reason the node text colors are not matching the node colors when you open the project or reset positions using the Persistent Graph plugin, you can manually re-enable them by going into Options -> Community Plugins -> Enter "Graph View Text Size"'s options, then toggle "Match node color" off and on again.
 
 
