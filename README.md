@@ -45,6 +45,6 @@ To save your own locations, press CRTL+P, then search for "save" and click "Pers
 <br>
 
 [libasoles' unofficial "Graph View Text Size" plugin](https://github.com/libasoles/graph-view-text-size) is included in this project.<br>
-If for some reason the node text colors are not matching the node colors when you open the project or reset positions using the Persistent Graph plugin, you can manually re-enable them by going into Options -> Community Plugins -> Enter "Graph View Text Size"'s options, then toggle "Match node color" off and on again.
+If for some reason the node text colors are not updating, try clicking one of the tag nodes, or manually disable and re-enable the color switch by going into Options -> Community Plugins -> Enter "Graph View Text Size"'s options -> "Match node color".
 
 
