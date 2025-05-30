@@ -10,21 +10,26 @@ Get Obsidian here: https://obsidian.md/
 
 <br>
 
+_Playing on Ship of Harkinian?<br>
+Check out the [OEV AutoLinker](https://github.com/reezic/OEV-AutoLinker) fork which automatically creates a map in Obsidian as you play._
+
+<br>
+
 ## Templates 
 Click the header names to download the latest template version
 <table>
   <tr>
-    <th><a href="https://github.com/reezic/OoT-OEV/releases/download/release/Clean.zip">Clean</a></th>
-    <th><a href="https://github.com/reezic/OoT-OEV/releases/download/release/Real_Map.zip/">Real Map</a></th>
+    <th><a href="https://github.com/reezic/OoT-OEV/releases/download/1.1/Clean.zip">Clean</a></th>
+    <th><a href="https://github.com/reezic/OoT-OEV/releases/download/1.1/Real.Map.zip/">Real Map</a></th>
   </tr>
   <tr>
     <td>
       A clean template with no linked entrances.<br><br>
-      <img src="https://github.com/user-attachments/assets/e12bda2a-f004-4f1e-a4a6-6543bdd9054d" width="400">
+      <img src="https://github.com/user-attachments/assets/86dce5b6-8af8-4dd2-82cb-a90afc2437fa" width="400">
     </td>
     <td>
       Entrances are linked as they are in the real game!<br><br>
-      <img src="https://github.com/user-attachments/assets/fec7a97e-d645-463b-be7a-0cb1acc39601" width="400">
+      <img src="https://github.com/user-attachments/assets/83c7d972-ee91-4a8c-8b11-5707d58a5346" width="400">
     </td>
   </tr>
 </table>
